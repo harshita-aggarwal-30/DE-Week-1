@@ -30,4 +30,4 @@ Through this project, important skills were learned, including:
 * Exploratory Data Analysis (EDA)
 * Using Jupyter Notebook and Google Colab
 
-This project helped build a strong understanding of practical data analysis workflows and real-world dataset handling using Python and Pandas. 
+
